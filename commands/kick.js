@@ -12,7 +12,7 @@ module.exports.run = async(bot, msg, args) => {
     if (!user.kickable) return await msg.channelse.dn("This user cannot be kicked!");
     const reason = args.slice(1).join(" ");
     if (!reason) return msg.channel.send("Please provide a reason for this user to be !");
-    let channel = user.guild.channels.find("name", "mod-logs");
+    let channel = user.guild.channels.find("name", "havoc-mod-logs");
     if (!channel) return; 
     await user.kick('${user.user.tag} has been kick for `${reason}');
     let embed = new Discord.RichEmbed()
