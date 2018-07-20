@@ -36,7 +36,7 @@ module.exports.run = async (bot, message, args) => {
 
   await(tomute.addRole(muterole.id));
   message.reply(`<@${tomute.id}> has been muted for ${ms(ms(mutetime))}`);
-  let channel = user.guild.channels.find("name", "mod-logs");
+  let channel = user.guild.channels.find("name", "havoc-mod-logs");
     if (!channel) return; 
     let embed = new Discord.RichEmbed()
     .setAuthor("mute Punishment", "https://cdn.discordapp.com/avatars/469212170131865600/7ecfefebdef462d44b3684780ccae5ac.png")
