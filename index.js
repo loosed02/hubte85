@@ -69,19 +69,7 @@ client.on('guildMemberAdd', member => {
   
     client.channels.get(serverStats.totalUsersID).setName(`Total Users : ${member.guild.memberCount}`);
     client.channels.get(serverStats.memberCountID).setName(`Member Count : ${member.guild.members.filter(m => !m.user.bot).size}`);
-  });
-  
-  client.on('ready', () => {
-    console.log("ACTIVATED (!)");
-
-    let botOnline = client.channels.get("469674817445167124");
-
-    let botOnlinee = new Discord.RichEmbed()
-    .setAuthor("Bot Online", "https://cdn.discordapp.com/avatars/469212170131865600/7ecfefebdef462d44b3684780ccae5ac.png")
-    .addField("Stats", "───────────────────────────────────\nBot have been activated!\n\n**STATS**: ONLINE\n**DEVELOPER:** Zeke#8277\n**SERVER**: HavocPrison Bot-Testing ```I'm Currently Online!```───────────────────────────────────")
-    .setColor("#d665d0")
-    .setTimestamp()
-    botOnline.send(botOnlinee);
+ 
   })
 
   client.on(`message`, message => {
