@@ -11,7 +11,6 @@ exports.run = (client, message, arsg) => {
     .setColor("#d665d0")
     .setTimestamp()
     message.channel.send({embed}) .then(msg => {
-        msg.delete(30000)
     });
 }
 }
