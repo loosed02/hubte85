@@ -7,3 +7,4 @@ settings/
 #Ignore packages
 package-lock.json
 package.json
+index.js
