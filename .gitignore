@@ -3,7 +3,7 @@ commands/
 events/
 node_modules/
 #Ignore settings
-settings/config.json
+settings/
 #Ignore packages
 package-lock.json
 package.json
