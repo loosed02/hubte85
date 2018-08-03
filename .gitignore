@@ -1,8 +1,6 @@
 #Ignore commands and folders
 commands/
 events/
-node_modules/
+node_modules/*
 #Ignore packages
-package-lock.json
-package.json
 _config.yml
