@@ -1,6 +1,6 @@
 # Havoc Prison Bot (PRIVATE)
 
-![d01fc773cf03411272fc07962e9e1a2f](https://user-images.githubusercontent.com/41456614/43622804-d8017502-9692-11e8-8d8f-7e7fa3ecbdbd.png)
+![purple_banner_transparent_png_clip_art_image](https://user-images.githubusercontent.com/41456614/43623116-63bc5eee-9694-11e8-9478-70c2881b0ac1.png)
 
 Havoc Prison, A server were you can get a pickaxe and start mining to reach to top tier.
 ***Website - havocprison.net
