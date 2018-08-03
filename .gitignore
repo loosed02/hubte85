@@ -7,3 +7,6 @@ node_modules/*
 #Ignore packages
 _config.yml
 Procfile
+_config.yml
+package.json
+package-lock.json
