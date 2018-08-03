@@ -1,6 +1,8 @@
 #Ignore commands and folders
+settings/
 commands/
 events/
+package.json
 node_modules/*
 #Ignore packages
 _config.yml
