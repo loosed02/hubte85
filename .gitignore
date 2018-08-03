@@ -1,6 +1,8 @@
+#Ignore commands and folders
 commands/
-node_modules/abbrev
+events/
+node_modules/
 settings/
-Procfile/
 package-lock.json
 package.json
+Procfile
