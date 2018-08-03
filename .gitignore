@@ -1,5 +1,4 @@
 #Ignore commands and folders
-settings/
 commands/
 events/
 package.json
@@ -10,3 +9,5 @@ Procfile
 _config.yml
 package.json
 package-lock.json
+package-lock.json
+package.json
