@@ -18,3 +18,22 @@ The bot was made in a such small amount of time it might contain bugs, errors an
 | !suggetion <suggestion> | Create a suggestion so we can improve our bot! |
 | !ip  | Check the server ip! Hop on! It's super fun |
 | !website | Check our website for more news and information! |
+  
+  # Commands (Moderator)
+
+| Commands      | Information   |
+| ------------- | ------------- |
+| !help         | Displays all the commands you can use! (Toward your permissions)  |
+| !ban <user> | Ban a user that dares to disobey our rules.  |
+| !unban <user> | Unban an user! |
+| !Mutes  | Currently a warn an user to stop doing what he's doing or the user will be muted. (Not Punishedment) |
+| !Bans  | Currently a warn an user to stop doing what he's doing or the user will be ban. (Not Punishedment) |
+| !Kicks  | Currently a warn an user to stop doing what he's doing or the user will be kick. (Not Punishedment) |
+| !voicemute  | Currently a warn an user to stop doing what he's doing or the user will be muted from VC. (Not Punishedment) |
+ !update  | Just updates to see what's new in the bot. |
+| !Unbans  | Currently a warn to the server that an user will be unbanned |
+  | !gamemaster  | Set yourself to level 1000 (Does not show in leaderboard) |
+
+
+
+
