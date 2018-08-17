@@ -1,6 +1,4 @@
 #Ignore commands and folders
-commands/
-events/
 node_modules/*
 #Ignore packages
 _config.yml
